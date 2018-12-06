@@ -1,11 +1,11 @@
 export const environment = {
   production: true,
   firebase: {
-    apiKey: 'AIzaSyAc9Tt8pQQF3ntu2Tz66iUKl_fXHtdhIyc',
-    authDomain: 'firestarter-96e46.firebaseapp.com',
-    databaseURL: 'https://firestarter-96e46.firebaseio.com',
-    projectId: 'firestarter-96e46',
-    storageBucket: 'firestarter-96e46.appspot.com',
-    messagingSenderId: '581326886241'
+    apiKey: 'AIzaSyBSQjR1L6FrfzIQkP_Z8Pz42hzIdOScKx8',
+    authDomain: 'firestarter-e73f5.firebaseapp.com',
+    databaseURL: 'https://firestarter-e73f5.firebaseio.com',
+    projectId: 'firestarter-e73f5',
+    storageBucket: 'firestarter-e73f5.appspot.com',
+    messagingSenderId: '310892737965'
   }
 };
